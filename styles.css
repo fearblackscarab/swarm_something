@@ -18,3 +18,11 @@ ul{
     height: auto;
     color:rgba(29, 167, 59, 0.548)
 }
+#search{
+    top: auto;
+    bottom: auto;
+    right:auto;
+    left:109em;
+    position: relative;
+    color: black;
+}
